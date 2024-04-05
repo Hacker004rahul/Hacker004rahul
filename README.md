@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hacker004rahul----- professional Hacker 
 - 👀 I’m interested in ... Hacking 
-- 🌱 I’m currently learning ... Java, python,c
+- 🌱 I’m currently learning ... CyberSecurity,kali,linux,Java, python,c
 - 💞️ I’m looking to collaborate on ... Programs 
 - 📫 How to reach me ... Instagram
 - Rahul_jangid_004
