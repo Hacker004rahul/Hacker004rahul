@@ -52,9 +52,9 @@ I'm especially interested in **AI for social good**, **automated systems**, and 
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)  
-- 📬 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-jangir-1374bb257/)  
+- 📬 Email: jangid06rahul@gmail.com  
+- 🌐 Portfolio: [your-portfolio-link.com](https://rahuljangirportfolio.vercel.app/)
 
 ---
 
